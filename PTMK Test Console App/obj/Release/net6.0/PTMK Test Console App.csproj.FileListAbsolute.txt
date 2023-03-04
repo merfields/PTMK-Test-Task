@@ -1,0 +1,36 @@
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\PTMKTestTask.exe
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\PTMKTestTask.dll.config
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\PTMKTestTask.deps.json
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\PTMKTestTask.runtimeconfig.json
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\PTMKTestTask.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\PTMKTestTask.pdb
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\AgeCalculator.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\ConsoleTables.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\Dapper.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\Newtonsoft.Json.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\System.Data.SQLite.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\System.Drawing.Common.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\System.Security.Permissions.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\System.Windows.Extensions.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMK Test Console App.csproj.AssemblyReference.cache
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMK Test Console App.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMK Test Console App.AssemblyInfoInputs.cache
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMK Test Console App.AssemblyInfo.cs
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMK Test Console App.csproj.CoreCompileInputs.cache
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMK Test Console App.csproj.CopyComplete
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMKTestTask.dll
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\refint\PTMKTestTask.dll
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMKTestTask.pdb
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\PTMK Test Console App.genruntimeconfig.cache
+G:\C#Repos\PTMK Test Console App\obj\Release\net6.0\ref\PTMKTestTask.dll

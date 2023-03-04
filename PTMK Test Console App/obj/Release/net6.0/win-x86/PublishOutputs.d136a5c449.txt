@@ -1,0 +1,4 @@
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\publish\win-x86\PTMKTestTask.pdb
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\publish\win-x86\PTMKTestTask.dll.config
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\publish\win-x86\SQLite.Interop.dll
+G:\C#Repos\PTMK Test Console App\bin\Release\net6.0\publish\win-x86\PTMKTestTask.exe
